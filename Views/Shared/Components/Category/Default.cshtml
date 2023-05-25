@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Category>
+
+    <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" id="navDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <i class="bi bi-columns-gap"></i>
+        Category
+        </a>
+      <ul class="dropdown-menu" aria-labelledby="navDarkDropdownMenuLink">
+        @foreach (var categories in Model)
+        {
+            <li><a class="dropdown-item">@categories.Name</a></li>
+        }
+    </ul>
+    </li>

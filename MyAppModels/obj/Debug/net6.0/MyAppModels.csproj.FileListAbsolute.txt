@@ -1,0 +1,12 @@
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\bin\Debug\net6.0\MyAppModels.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\bin\Debug\net6.0\MyAppModels.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\bin\Debug\net6.0\MyAppModels.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\refint\MyAppModels.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyAppModels.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\ref\MyAppModels.dll

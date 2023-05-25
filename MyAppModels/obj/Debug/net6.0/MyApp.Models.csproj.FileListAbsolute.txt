@@ -1,0 +1,60 @@
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\bin\Debug\net6.0\MyApp.Models.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\bin\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\bin\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\refint\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyAppModels\obj\Debug\net6.0\ref\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\bin\Debug\net6.0\MyApp.Models.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\bin\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\bin\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\refint\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyAppModels\obj\Debug\net6.0\ref\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\bin\Debug\net6.0\MyApp.Models.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\bin\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\bin\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\refint\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyAppModels\obj\Debug\net6.0\ref\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\bin\Debug\net6.0\MyApp.Models.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\bin\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\bin\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\refint\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyAppModels\obj\Debug\net6.0\ref\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\bin\Debug\net6.0\MyApp.Models.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\bin\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\bin\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\refint\MyApp.Models.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\MyApp.Models.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyAppModels\obj\Debug\net6.0\ref\MyApp.Models.dll

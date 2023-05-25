@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MyApp.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/ProductImage/resize-1683805770775901698resize1683805302417581670technologyintheworkplace.png" height="400px" width="1700px">
+        </div>
+        <div class="carousel-item">
+            <img src="~/ProductImage/resize-16838053762063610686education.jpg" height="400px" width="1700px">
+        </div>
+        <div class="carousel-item">
+            <img src="~/ProductImage/resize-16838053442083719044mediaentertainment.png" height="400px" width="1700px">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+    @* <style>
+    .carousel-inner {
+    max-height: 400px;
+    img
+
+    {
+    max-width: 1600px;
+    }
+
+    }
+    </style>*@
+</div>
+
+<br />
+
+
+<div class="row product-container">
+    @foreach (var item in @Model)
+    {
+        <div class="col-md-3 col-sm-3 col-xs-6" style="margin-bottom:8px">
+            <img src="@item.ImageUrl" class="card-img-top" alt="Card image cap" style="height:300px">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">Price: @item.Price.ToString("0.00")</p>  
+                  <div class="star" style="color:rgb(243, 181, 25);font-size: 12px">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                  </div>
+             @*   <a asp-action="Details" asp-controller="Home" asp-route-ProductId="@item.Id" class="btn btn-primary">Details</a>     *@          
+            </div>
+        </div>
+    }
+</div>
+<style>
+    .row {
+       
+    }
+</style>
+
+<!--<button class="button" asp-action="Details" asp-controller="Home" asp-route-ProductId="item.Id">Details</button>-->

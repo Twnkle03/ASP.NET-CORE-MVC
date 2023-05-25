@@ -1,0 +1,94 @@
+﻿@model MyApp.Models.ViewModels.ProductVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container p-4">
+    <div class="row p-3">
+        <div class="col-6">
+            <h2 class="text-primary">List of Orders</h2>
+        </div>
+        <div align="right" class="col-6" >
+            <label for="order-status">Order Status:</label>
+            <select id="order-status" method="get" onchange="location = this.value;">
+                <option value="status">Status</option>
+                <option value="@Url.Action("Index", "order", new { status = "pending" })">Pending</option>
+                <option value="@Url.Action("Index", "order", new { status = "approved" })">Approved</option>
+                <option value="@Url.Action("Index", "order", new { status = "underprocess" })">Under process</option>
+                <option value="@Url.Action("Index", "order", new { status = "shipped" })">Shipped</option>
+                <option value="@Url.Action("Index", "order", new { status = "all" })">All</option>
+            </select>
+        </div>
+        <style>
+            .rounded-textbox {
+                display: flex;
+                align-items: center;
+                border-radius: 20px;
+                background-color: #f5f5f5;
+                padding: 5px;
+                margin-bottom: 10px;
+            }
+
+            select {
+                border: none;
+                background-color: transparent;
+                outline: none;
+                margin-right: 5px;
+                font-size: 16px;
+                font-weight: bold;
+                color: #333333;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                appearance: none;
+            }
+        </style>
+       @* <div class="col-6">
+            <a asp-controller="order" asp-action="Index" asp-route-status="pending"> Pending </a>
+
+            <a asp-controller="order" asp-action="Index" asp-route-status="approved">  Approved </a>
+
+            <a asp-controller="order" asp-action="Index" asp-route-status="underprocess">  Under process </a>
+
+            <a asp-controller="order" asp-action="Index" asp-route-status="shipped">  Shipped </a>
+
+            <a asp-controller="order" asp-action="Index" asp-route-status="all">  All </a>
+        </div>*@
+       
+       @* <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-action="CreateUpdate" asp-controller="Order"><i class="bi bi-plus-circle"></i>&nbsp;Create New Product</a>
+        </div>*@
+    </div>
+</div>
+
+@*<h1>List of Categories</h1>*@
+<table id="myTable" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Phone Number
+            </th>
+            <th>
+                Order Status
+            </th>
+            <th>
+                Order Total(₹)
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+
+</table>
+
+
+
+@section scripts {
+    <script src="~/js/Order.js"></script>
+}
+
+

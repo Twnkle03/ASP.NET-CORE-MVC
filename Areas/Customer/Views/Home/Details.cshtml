@@ -1,0 +1,36 @@
+﻿@model MyApp.Models.Cart
+
+<h1>Product Details</h1>
+<form method="post">
+    <div class="row">
+        <div class="col-4">
+            <img src="@Model.Product.ImageUrl" width="200" height="200"/>
+            <input type="hidden" asp-for="ProductId"/>
+        </div>
+        <div class="col-8">
+            <div class="row">
+                <label style="font-size: 36px" asp-for="Product.Name">Product Name : @Model.Product.Name</label>
+                <label style="color:red;font-size: 28px" asp-for="Product.Description">Product Price : @Model.Product.Price.ToString("0.00")</label>
+                <label asp-for="Product.Description">Product Discription : @Html.Raw(Model.Product.Description)</label>               
+                <label asp-for="Product.Category.Id">Product Category : @Model.Product.Category.Name</label>
+                <div class="form-control">
+                   
+                        <label asp-for="Count"></label>
+                        <input asp-for="Count" class="form-control" />
+                        <span asp-validation-for="Count" class="text-danger"></span>
+                    
+                   @* <br />
+                    <div class="row-cols-md-3">
+                        <label asp-for="Category.DisplayOrder"></label>
+                        <input asp-for="Category.DisplayOrder" class="form-control" />
+                        <span asp-validation-for="Category.DisplayOrder" class="text-danger"></span>
+                    </div>*@
+                </div>
+                <div class="form-control">
+                    <button class="btn btn-success" asp-action="Index" asp-controller="Home">Back to List</button>
+                    <button class="btn btn-dark" type="submit">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

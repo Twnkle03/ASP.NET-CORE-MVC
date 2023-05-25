@@ -1,0 +1,60 @@
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\refint\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\MyWebApp\MyApp.CommonHelper\obj\Debug\net6.0\ref\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\refint\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2\MyApp.CommonHelper\obj\Debug\net6.0\ref\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\refint\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy\MyApp.CommonHelper\obj\Debug\net6.0\ref\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\refint\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (2)\MyApp.CommonHelper\obj\Debug\net6.0\ref\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.deps.json
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\bin\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.AssemblyReference.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.AssemblyInfo.cs
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\refint\MyApp.CommonHelper.dll
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\MyApp.CommonHelper.pdb
+C:\Users\TWINKLE\INTERNSHIP PROJECT\New folder\MyWebApp2 - Copy - Copy (3) - Copy\MyApp.CommonHelper\obj\Debug\net6.0\ref\MyApp.CommonHelper.dll
